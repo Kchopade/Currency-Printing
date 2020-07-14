@@ -35,9 +35,6 @@ OUTPUT:- Rs.One Thousand  25/100 ONLY
 INPUT:- 1001
 OUTPUT:- Rs.One Thousand And One ONLY
 
-INPUT:- 1100
-OUTPUT:- Rs.One Thousand One Hundred  ONLY
-
 INPUT:- 1101
 OUTPUT:- Rs.One Thousand One Hundred And One ONLY
 
